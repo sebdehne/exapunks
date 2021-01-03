@@ -24,7 +24,7 @@ My solutions for the game [EXAPUNKS](https://www.zachtronics.com/exapunks/).
 |[19 TEC EXA-blaster modem - radio stations](src/19-radio_stations/)|258|51|26|
 |[20 Emersons Guide - streetsmarts gis database](src/20-streetsmarts_gis_db/)|51|36|10|
 |[21 Valhalla - plastered](src/21-plastered/)|100 wins| | |
-|[22 Mitsuzen HDI-10 - left hand](src/22-left_hand/)|105|75|24|
+|[22 Mitsuzen HDI-10 - left hand](src/22-left_hand/)|48|45|24|
 |[23 Sawayama Wonderdisk - drive controller](src/23-drive_controller/)|6647|53|64|
 |[24 Alliance Power and Light - streetsmarts gis database](src/24-streetsmarts_gis_db/)|75|38|68|
 |[25 Deadlocks Domain - deadlock](src/25-deadlock/)|100 wins| | |
