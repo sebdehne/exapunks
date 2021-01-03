@@ -11,15 +11,15 @@ My solutions for the game [EXAPUNKS](https://www.zachtronics.com/exapunks/).
 |[06 Mituzen HDI-10 - left arm](src/06-left_arm/)|111|19|6|
 |[07 Last Stop Snaxnet - Factory 11](src/07-factory11/)|31|11|2|
 |[08 Zebros Coies - point-of-sale-system](src/08-pos/)|74|31|4|
-|[09 SFCTA Highway Sign - #4902 - remote access interface](src/09-remote_access_interface/)|240|30|1|
-|[10 Unknown Network 1 - unknown context](src/10-unknown_context/)|31|20|27|
+|[09 SFCTA Highway Sign - #4902 - remote access interface](src/09-remote_access_interface/)|193|14|1|
+|[10 Unknown Network 1 - unknown context](src/10-unknown_context/)|27|18|27|
 |[11 UC Berkley - EECS department](src/11-eecs_department/)|192|38|7|
 |[12 Workhouse - work management system](src/12-work_management_system/)|523|28|2|
 |[13 Equity First Bank - san francisco](src/13-san_francsisco/)|3015|16|10|
-|[14 Mitsuzen HDI-10 - heart](src/14-heart/)|139|38|7|
+|[14 Mitsuzen HDI-10 - heart](src/14-heart/)|103|32|7|
 |[15 Trash World News - unknown context](src/15-unknown_context/)|563|26|4|
 |[16 KGOG-TV - programming hub](src/16-programming_hub/)|100 wins|||
-|[17 TEC Redshift - development kit](src/17-development_kit/)|9994|31|5|
+|[17 TEC Redshift - development kit](src/17-development_kit/)|6003|24|7|
 |[18 Digital Library Project - patron access system](src/18-patron_access_system/)|1277|45|65|
 |[19 TEC EXA-blaster modem - radio stations](src/19-radio_stations/)|998|50|18|
 |[20 Emersons Guide - streetsmarts gis database](src/20-streetsmarts_gis_db/)|54|38|10|
