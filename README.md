@@ -20,9 +20,9 @@ My solutions for the game [EXAPUNKS](https://www.zachtronics.com/exapunks/).
 |[15 Trash World News - unknown context](src/15-unknown_context/)|563|26|4|
 |[16 KGOG-TV - programming hub](src/16-programming_hub/)|100 wins|||
 |[17 TEC Redshift - development kit](src/17-development_kit/)|6003|24|7|
-|[18 Digital Library Project - patron access system](src/18-patron_access_system/)|1277|45|65|
-|[19 TEC EXA-blaster modem - radio stations](src/19-radio_stations/)|998|50|18|
-|[20 Emersons Guide - streetsmarts gis database](src/20-streetsmarts_gis_db/)|54|38|10|
+|[18 Digital Library Project - patron access system](src/18-patron_access_system/)|311|36|37|
+|[19 TEC EXA-blaster modem - radio stations](src/19-radio_stations/)|258|51|26|
+|[20 Emersons Guide - streetsmarts gis database](src/20-streetsmarts_gis_db/)|51|36|10|
 |[21 Valhalla - plastered](src/21-plastered/)|100 wins| | |
 |[22 Mitsuzen HDI-10 - left hand](src/22-left_hand/)|105|75|24|
 |[23 Sawayama Wonderdisk - drive controller](src/23-drive_controller/)|6647|53|64|
